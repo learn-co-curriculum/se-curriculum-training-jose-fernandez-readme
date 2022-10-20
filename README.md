@@ -1,5 +1,8 @@
 # Jose's First README
 
+## Image
+![test image](https://curriculum-content.s3.amazonaws.com/curriculum-training/se-curriculum-training-jose-fernandez-readme/keyboard-event.png)
+
 ## Learning Goals
 
 - Learning Goal 1
